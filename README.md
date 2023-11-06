@@ -19,7 +19,7 @@ git clone https://github.com/Oxt4n1nc9b4r/Math-game.git
 ```
 
 ``` 
-cd Devil-Eye
+cd Math-game
 ```
 
 ```
